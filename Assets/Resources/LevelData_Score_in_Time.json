@@ -1,0 +1,48 @@
+{
+  "bugCount": 0,
+  "wordCount": 0,
+  "timeSec": 20,
+  "totalScore": 100,
+  "gridSize": {
+    "x": 3,
+    "y": 3
+  },
+  "gridData": [
+    {
+      "tileType": 0,
+      "letter": "W"
+    },
+    {
+      "tileType": 0,
+      "letter": "O"
+    },
+    {
+      "tileType": 0,
+      "letter": "R"
+    },
+    {
+      "tileType": 0,
+      "letter": "A"
+    },
+    {
+      "tileType": 0,
+      "letter": "N"
+    },
+    {
+      "tileType": 0,
+      "letter": "D"
+    },
+    {
+      "tileType": 0,
+      "letter": "F"
+    },
+    {
+      "tileType": 0,
+      "letter": "U"
+    },
+    {
+      "tileType": 0,
+      "letter": "N"
+    }
+  ]
+}
